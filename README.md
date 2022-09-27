@@ -1,6 +1,6 @@
 # Python Basics
 
-i) Basic Python Datatypes
+i) Datatypes
 
 ii) Operators
 
